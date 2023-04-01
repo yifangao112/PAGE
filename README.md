@@ -31,7 +31,7 @@ The **P**rofession**A**l **G**o Annotation Datas**E**t (**PAGE**) is an extensiv
 All data is hosted on OneDrive and Baidu NetDisk:
 
 | Path | Size | Files | Format | Description
-| :--- | :--: | ----: | :----: | :----------
+| :---- | :---: | ----: | :----: | :----------
 | PAGE | 59.6 GB | 98,541 | | Main folder
 | &boxvr;&nbsp; ownership | 28.5 GB | 98,525 | NumPy | In-game statistics, with multiple NumPy matrixes.
 | &boxvr;&nbsp; metadata.csv | 13.3 MB | 1 | CSV | Game-level Metadata.
