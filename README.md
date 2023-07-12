@@ -24,35 +24,29 @@ The **P**rofession**A**l **G**o Annotation Datas**E**t (**PAGE**) is an extensiv
 
 
 ## ToDo
-- [ ] work 1.
-- [ ] work 2.
-- [ ] work 3.
-- [ ] work 4.
-- [ ] work 5.
-- [ ] work 6.
-- [ ] work 7.
-- [ ] work 8.
-- [ ] work 9.
-- [ ] work 10.
+- [ ] Add example scripts to conduct preliminary analysis on various features of PAGE.
+- [ ] Provide code for downstream tasks described in the journal paper.
+- [ ] Add scripts to generate in-game statistics from SGF game records.
+- [ ] Add games data after 2021 to expand the dataset coverage.
+- [ ] Extend KataGo analysis time per game to produce more robust in-game statistics.
 
-## Overview
+## Download
 All data is hosted on OneDrive and Baidu NetDisk:
 
+Baidu NetDisk：**[download link](https://pan.baidu.com/s/1g0mH5GNVsBde-J_kj6SA1Q?pwd=grvo)**<br>
+code：grvo
+
+OneDrive: **[download link](https://1drv.ms/f/s!AieKhpO5O-QAlJ8vNuH5K8hxYOcy7A?e=q6vvgx)**<br>
+code：PAGE
+
 | Path | Size | Files | Format | Description
-| :---- | :---: | ----: | :----: | :----------
+| :---- | :-----: | :----: | :----: | :----------
 | PAGE | 59.6 GB | 98,541 | | Main folder
 | ownership | 28.5 GB | 98,525 | NumPy | In-game statistics, with multiple NumPy matrixes.
 | metadata.csv | 13.3 MB | 1 | CSV | Game-level Metadata.
 | recommended_move.h5 | 5.49 GB | 1 | HDF5 | In-game statistics.
 | ingame_statistics.h5 | 1.26 GB | 1 | HDF5 | In-game statistics without ownership and recommended move.
 | zip | 24.3 GB | 13 | ZIP | Contents of ownership folder as a ZIP archive.
-
-## Download
-Baidu NetDisk：**[download link](https://pan.baidu.com/s/1g0mH5GNVsBde-J_kj6SA1Q?pwd=grvo)**<br>
-code：grvo
-
-OneDrive: **[download link](https://1drv.ms/f/s!AieKhpO5O-QAlJ8vNuH5K8hxYOcy7A?e=q6vvgx)**<br>
-code：PAGE
 
 ## Baselines and examples
 ToDo
