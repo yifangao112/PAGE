@@ -36,7 +36,7 @@ All data is hosted on OneDrive and Baidu NetDisk:
 Baidu NetDisk：**[download link](https://pan.baidu.com/s/1g0mH5GNVsBde-J_kj6SA1Q?pwd=grvo)**<br>
 code：grvo
 
-OneDrive: **[download link](https://1drv.ms/f/s!AieKhpO5O-QAlJ8vNuH5K8hxYOcy7A?e=q6vvgx)**<br>
+OneDrive: **[download link](https://1drv.ms/f/c/00e43bb993868a27/IgAnioaTuTvkIIAArw8FAAAAAWNabecQcimCVwuHXxpvoqY?e=TRlXdZ)**<br>
 code：PAGE
 
 | Path | Size | Files | Format | Description
